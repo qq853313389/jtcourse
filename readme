@@ -1,5 +1,10 @@
 hello
 
 hello  liao2
+<<<<<<< HEAD
 today
 str + hello
+=======
+
+str + hello + me
+>>>>>>> abc/master
